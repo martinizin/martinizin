@@ -1,7 +1,6 @@
-- 👋 Hi, I’m  Martin Jimenez
-- 👀 I’m interested los deportes y la música.
-- 🌱 I’m currently learnin desarrollo de software.
-- 💞️ I’m looking to collaborate on todos los proyectos relacionados a la mataria.
+- 👋 Hola, mi nombre es  Martin Jimenez
+- 👀 Mis hobbies son los deportes y la música.
+- 🌱 Estudiante de tegnología superior en desarrollo de software.
 - 📫 How to reach me :
 -Correo Institucional: martin.jimenez@epn.edu.ec
 
