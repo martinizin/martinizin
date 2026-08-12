@@ -1,10 +1,9 @@
-# 💫 Acerca de mí:
-- 👋 Hola, mi nombre es  Martin Jimenez<br>
-- 👀 Mis hobbies son el fútbol y el freestyle<br>
-- 🌱 Estudiante de Ingeniería de Software.<br>
-- 📫 Información de contacto:<br>
-- Correo Institucional: martin.jimenez@epn.edu.ec<br>
-- Correo Personal: mar45pillacela@gmail.com
+# About me:
+-  Hi, my name is Martin Jimenez<br>
+- Addicted to soccer and freestyle<br>
+-  Software Engenieer.<br>
+-  Contact:<br>
+   -  email: mar45pillacela@gmail.com
 
 
 ## 🌐 Redes Sociales:
