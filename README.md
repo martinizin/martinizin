@@ -6,7 +6,7 @@
 <img src="./PROFILEGITHUB.jpg" width="45%" alt="Martin Jimenez profile header" />
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=800&height=100&lines=Software+Engineer+%F0%9F%92%BB;TypeScript+%7C+JavaScript+%7C+Kotlin;Web+%26+Mobile+Developer+%F0%9F%93%B1;Building+Digital+Experiences+%F0%9F%9A%80;Soccer+%26+Freestyle+Enthusiast+%E2%9A%BD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&height=100&lines=Software+Engineer+%F0%9F%92%BB;TypeScript+%7C+JavaScript+%7C+Kotlin;Web+%26+Mobile+Developer+%F0%9F%93%B1;Building+Digital+Experiences+%F0%9F%9A%80;Soccer+%26+Freestyle+Enthusiast+%E2%9A%BD" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=36BCF7" width="100%" alt="Animated divider" />
 
@@ -27,15 +27,17 @@
 ```yaml
 name: Martin Jimenez
 role: Software Engineer
-experience: Building web, mobile, and backend projects
+experience: Building web, and backend projects and AI Integrations
 specialization:
   web:
     - TypeScript
     - JavaScript
     - Ecommerce applications
-  mobile:
-    - Kotlin
-    - Android development
+  AI:
+    - Chatbots
+    - MCPs
+    - Automatizations
+    - Agents integration
   interests:
     - Soccer
     - Freestyle
@@ -77,7 +79,7 @@ specialization:
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/MartinJimenez)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/martiinizin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MartinJimenez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himartinjimenez/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/martiinizin)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Martin)
 
