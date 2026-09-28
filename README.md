@@ -6,7 +6,7 @@
 <img src="./PROFILEGITHUB.jpg" width="45%" alt="Martin Jimenez profile header" />
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&height=100&lines=Software+Engineer+%F0%9F%92%BB;TypeScript+%7C+JavaScript+%7C+Kotlin;Web+%26+Mobile+Developer+%F0%9F%93%B1;Building+Digital+Experiences+%F0%9F%9A%80;Soccer+%26+Freestyle+Enthusiast+%E2%9A%BD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&height=100&lines=Software+Engineer+%F0%9F%92%BB;AI+Solutions+%7C+TypeScript+%7C+JavaScript;Chatbots+%26+AI+Agents+%F0%9F%A4%96;Building+Intelligent+Digital+Experiences+%F0%9F%9A%80;Soccer+%26+Freestyle+Enthusiast+%E2%9A%BD" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=36BCF7" width="100%" alt="Animated divider" />
 
@@ -26,8 +26,8 @@
 
 ```yaml
 name: Martin Jimenez
-role: Software Engineer
-experience: Building web, and backend projects and AI Integrations
+role: Software Engineer focused on AI solutions
+experience: Building web, backend, and AI-integrated solutions
 specialization:
   web:
     - TypeScript
@@ -35,9 +35,10 @@ specialization:
     - Ecommerce applications
   AI:
     - Chatbots
-    - MCPs
-    - Automatizations
-    - Agents integration
+    - AI agents
+    - MCP servers
+    - Workflow automation
+    - Forecasting solutions
   interests:
     - Soccer
     - Freestyle
@@ -96,8 +97,8 @@ specialization:
 ### **Web Development**
 <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css&theme=dark" alt="Web technologies" />
 
-### **Mobile Development**
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" alt="Mobile technologies" />
+### **AI & Data Solutions**
+<img src="https://skillicons.dev/icons?i=python,openai&theme=dark" alt="AI and data technologies" />
 
 ### **Tools & Platforms**
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Development tools" />
@@ -142,26 +143,26 @@ specialization:
 <tr>
 <td width="50%">
 
-### 📝 **Blog AM**
-*Mobile applications project*
+### 🚦 **Spatial Traffic Forecasting**
+*AI and data forecasting project*
 
-🔗 [Repository](https://github.com/martinizin/blogAM)
+🔗 [Repository](https://github.com/martinizin/proyecto-spatial-traffic-forecasting)
 
-**Tech:** TypeScript
+**Tech:** AI, data analysis, forecasting
 
-✨ A project developed for mobile applications coursework.
+✨ Exploring intelligent forecasting for spatial traffic data.
 
 </td>
 <td width="50%">
 
-### 🧮 **Calculadora App**
-*Android calculator*
+### 🧩 **Proyecto ECPP**
+*Full-stack application*
 
-🔗 [Repository](https://github.com/martinizin/calculadoraApp)
+🔗 [Repository](https://github.com/martinizin/proyecto-ecpp)
 
-**Tech:** Kotlin
+**Tech:** Full stack
 
-✨ Calculator with basic functions and three trigonometric functions.
+✨ A full-stack project combining frontend and backend development.
 
 </td>
 </tr>
@@ -186,7 +187,7 @@ specialization:
 <img src="https://img.shields.io/github/created-at/martinizin/ecommerce-frontend?style=for-the-badge&label=First%20featured%20project&color=36BCF7" height="40" alt="Featured project creation date" />
 
 <br/>
-<img src="https://img.shields.io/badge/Primary%20stack-TypeScript%20%7C%20JavaScript%20%7C%20Kotlin-36BCF7?style=for-the-badge" height="40" alt="Primary programming language stack" />
+<img src="https://img.shields.io/badge/Primary%20stack-TypeScript%20%7C%20JavaScript%20%7C%20AI-36BCF7?style=for-the-badge" height="40" alt="Primary programming and AI stack" />
 
 </div>
 
