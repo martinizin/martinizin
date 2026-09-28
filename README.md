@@ -1,9 +1,7 @@
 <!-- Animated Header with Gradient -->
 <div align="center">
 
-# 🌊 Welcome to My Digital Universe
-
-<img src="./PROFILEGITHUB.jpg" width="45%" alt="Martin Jimenez profile header" />
+# 🌊 Building AI-powered products for capital markets & Fintech
 
 <!-- Animated Typing Effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&height=100&lines=Software+Engineer+%F0%9F%92%BB;AI+Solutions+%7C+TypeScript+%7C+JavaScript;Chatbots+%26+AI+Agents+%F0%9F%A4%96;Building+Intelligent+Digital+Experiences+%F0%9F%9A%80;Soccer+%26+Freestyle+Enthusiast+%E2%9A%BD" alt="Typing SVG" />
@@ -14,7 +12,7 @@
 
 ---
 
-## 🎯 **About Me - The Digital Craftsman**
+## 🎯 **Engineer, Student, Builder**
 
 <div align="center">
 
