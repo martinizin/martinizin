@@ -3,7 +3,7 @@
 
 # 🌊 Welcome to My Digital Universe
 
-<img src="./PROFILEGITHUB.jpg" width="100%" alt="Martin Jimenez profile header" />
+<img src="./PROFILEGITHUB.jpg" width="45%" alt="Martin Jimenez profile header" />
 
 <!-- Animated Typing Effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=800&height=100&lines=Software+Engineer+%F0%9F%92%BB;TypeScript+%7C+JavaScript+%7C+Kotlin;Web+%26+Mobile+Developer+%F0%9F%93%B1;Building+Digital+Experiences+%F0%9F%9A%80;Soccer+%26+Freestyle+Enthusiast+%E2%9A%BD" alt="Typing SVG" />
@@ -180,7 +180,7 @@ specialization:
 <img src="https://streak-stats.demolab.com/?user=martinizin&theme=radical&hide_border=true&background=0D1117&stroke=36BCF7&ring=9C27B0&fire=FF6B35&currStreakLabel=36BCF7&border_radius=10" height="180" alt="GitHub contribution streak" />
 
 <br/><br/>
-<img src="https://img.shields.io/github/commit-activity/y/martinizin?style=for-the-badge&label=Yearly%20commits&color=FF6B35" height="40" alt="Yearly GitHub commits" />
+
 <img src="https://img.shields.io/github/created-at/martinizin/ecommerce-frontend?style=for-the-badge&label=First%20featured%20project&color=36BCF7" height="40" alt="Featured project creation date" />
 
 <br/>
@@ -196,8 +196,15 @@ specialization:
 
 <div align="center">
 
-<img src="https://img.shields.io/github/commit-activity/m/martinizin?style=for-the-badge&label=Monthly%20activity&color=9C27B0" height="40" alt="Monthly GitHub activity" />
-<img src="https://img.shields.io/github/last-commit/martinizin/ecommerce-frontend?style=for-the-badge&label=Latest%20featured%20project%20commit&color=36BCF7" height="40" alt="Latest featured project commit" />
+<a href="https://github.com/martinizin?tab=achievements">
+<img src="https://img.shields.io/badge/Pair%20Extraordinaire-x4-36BCF7?style=for-the-badge&logo=github&logoColor=white" height="40" alt="Pair Extraordinaire achievement, four times" />
+<img src="https://img.shields.io/badge/Pull%20Shark-x3-9C27B0?style=for-the-badge&logo=github&logoColor=white" height="40" alt="Pull Shark achievement, three times" />
+<img src="https://img.shields.io/badge/YOLO-1-FF6B35?style=for-the-badge&logo=github&logoColor=white" height="40" alt="YOLO achievement" />
+<img src="https://img.shields.io/badge/Quickdraw-1-00C853?style=for-the-badge&logo=github&logoColor=white" height="40" alt="Quickdraw achievement" />
+</a>
+
+<br/><br/>
+<a href="https://github.com/martinizin?tab=achievements">View all GitHub achievements</a>
 
 </div>
 
